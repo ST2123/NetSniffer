@@ -1,4 +1,4 @@
-import decode
+from sniffer import decode
 import socket
 import pprint
 
